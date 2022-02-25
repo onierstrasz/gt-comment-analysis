@@ -1,7 +1,7 @@
 Class {
 	#name : #BaselineOfGtCommentAnalysis,
 	#superclass : #BaselineOf,
-	#category : #'BaselineOfGtCommentAnalysis-BaselineOfBeacon'
+	#category : #'BaselineOfGtCommentAnalysis'
 }
 
 { #category : #accessing }
